@@ -1,0 +1,18 @@
+{
+  "name": "hinterland-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "High contrast theme with a feeling of spring in the countryside.",
+  "keywords": [
+    "syntax",
+    "green",
+    "teal",
+    "amber",
+    "light"
+  ],
+  "repository": "https://github.com/protesilaos/hinterland-light-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  }
+}
