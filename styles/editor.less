@@ -5,8 +5,10 @@ atom-text-editor {
   color: @syntax-text-color;
   background-color: @syntax-background-color;
 
-  .line.cursor-line {
+  .line.cursor-line,
+  .line-number.cursor-line {
     background-color: @syntax-cursor-line;
+    opacity: 1;
   }
 
   .invisible {
